@@ -1,5 +1,5 @@
 Olá, me chamo Vinícius Castelhano, seja bem vindo! 👋
-<!--
+
 **Vinicin735x/Vinicin735x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
