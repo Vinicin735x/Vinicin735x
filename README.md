@@ -5,7 +5,7 @@ Olá, me chamo Vinícius Castelhano, seja bem vindo! 👋
 
 - 📚 Estudante de Sistemas de Informação no Centro Federal de Educação Tecnológica de Minas Gerais | CEFET em Varginha-Mg - 1/8
 - 👨🏻‍🎓  Graduado no curso técnico em informática (CEFET)
-- 👨🏻‍💻 Participante de um projeto para desenvolvimento de um aplicativo mobile "Parkeasy".
+- 👨🏻‍💻 Participei de um projeto para desenvolvimento de um aplicativo mobile "Parkeasy".
 
 ## Ferramentas e Tecnologias
 
