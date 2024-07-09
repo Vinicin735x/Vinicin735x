@@ -30,7 +30,6 @@ Olá, me chamo Vinícius Castelhano, seja bem vindo! 👋
 </div>
 
 
-![Snake animation](https://github.com/Vinicin735x/Vinicin735x/blob/output/github-contribution-grid-snake.svg)
           
           
           
