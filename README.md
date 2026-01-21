@@ -3,7 +3,7 @@ Olá, me chamo Vinícius Castelhano, seja bem vindo! 👋
 
 ## Sobre mim:
 
-- 📚 Estudante de Sistemas de Informação no Centro Federal de Educação Tecnológica de Minas Gerais | CEFET em Varginha-Mg - 3/8
+- 📚 Estudante de Sistemas de Informação no Centro Federal de Educação Tecnológica de Minas Gerais | CEFET em Varginha-Mg - 5/8
 - 👨🏻‍🎓 Graduado no curso técnico em informática (CEFET)
 - ☁  Estagiário da StayCloud
 
