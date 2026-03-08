@@ -66,8 +66,6 @@
 
 ---
 
-<<hr>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMartins11/TMartins11/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TMartins11/TMartins11/output/github-snake.svg" />
