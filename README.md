@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Sempre+aprendendo+novas+tecnologias;Apaixonado+por+desenvolvimento" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -46,12 +46,12 @@
 ## 📊 Estatísticas:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinicin735x&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicin735x&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicin735x&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Vinicin735x">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vinicin735x&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Vinicin735x">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicin735x&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -61,5 +61,5 @@
 <div style="display: inline-block"><br>
   <a href="https://www.instagram.com/vini.castelhano/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:vini08.mantovani@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/vinicius-castelhano-mantovani" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/vinicius-castelhano-mantovani-86178632a" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
