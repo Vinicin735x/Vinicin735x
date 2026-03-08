@@ -22,13 +22,24 @@ Olá, me chamo Vinícius Castelhano, seja bem vindo! 👋
 <a href="https://instagram.com/vini.castelhano" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@vini08.mantovani@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+## Strikes
 <div>
 <a href="https://github.com/Vinicin735x">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicin735x&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicin735x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
+   </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
           
           
           
