@@ -46,12 +46,12 @@
 ## 📊 Estatísticas:
 
 <div align="center">
-  <a href="https://github.com/Vinicin735x">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vinicin735x&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Vinicin735x">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicin735x&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Vinicin735x&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicin735x&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicin735x&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
